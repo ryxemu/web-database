@@ -1,11 +1,7 @@
-# EQEmuAllakhazamClone
+# Web-Based Database Viewer
 
 * This clone was originally created in 2004 by Muuss of our Emulator community, I've since gone through and cleaned quite a few things up but it still could use a complete rewrite as the internals are terrible to work with but this is an ancient PHP app and much has changed since
 * If you are interested in using this for your server, it is plenty functional and below is the instructions to do so
-
-![](https://i.imgur.com/pwTrZm2.png)
-
-![](https://i.imgur.com/oMC9mDM.png)
 
 ### Setup
 

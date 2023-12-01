@@ -1,1 +1,0 @@
-Maps for EQMacEmu Server

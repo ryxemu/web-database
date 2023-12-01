@@ -33,8 +33,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Project Quarm Database</title>
-    <link rel="icon" href="http://everquest.allakhazam.com/favicon.ico">
+    <title>Name Site Here</title>
     <link rel="stylesheet" type="text/css" href="includes/alla.css">
     <link rel="stylesheet" type="text/css" href="./zam_files/global.css">
     <link rel="stylesheet" type="text/css" href="./zam_files/site.css" id="css">
@@ -263,7 +262,7 @@
         ?>
     </footer>
 
-    <div class="copyright">Official Repository was created by Akkadius. Major modifications and re-work done by Everlaster/Lockpick 11/2023</div>
+    <div class="copyright">Official Repository was created by Akkadius. Major modifications and re-work done by Everlaster/Lockpick/Rynet/Constantine-Decrypt 12/2023</div>
 
 </div>
 

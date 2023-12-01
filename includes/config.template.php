@@ -14,15 +14,15 @@ if ($php_debug) {
 /**
  * Basic site info
  */
-$site_title  = 'EQEmu Server AllaClone';
+$site_title  = 'Pick A Website Title';
 
 /**
  * MySQL Config
  */
 $db_host     = "mariadb";
-$db_name     = "peq";
-$db_user     = "root";
-$db_password = "root";
+$db_name     = "This needs to match DB";
+$db_user     = "This needs to match DB";
+$db_password = "This needs to match DB";
 
 /**
  * Options

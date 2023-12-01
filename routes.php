@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: cmiles
- * Date: 9/18/2016
- * Time: 6:19 PM
- */
-
 $route = $_GET['a'];
 if ($route == "spells") {
     require_once('pages/spells/spells.php');
@@ -57,16 +50,14 @@ if ($route == "spells") {
         require_once('pages/front_page.php');
     } else {
         echo '
-           <h1>' . $site_name . ' Project Quarm Database</h2>
+           <h1>' . $site_name . ' Insert Site Name Here</h2>
            <br>
-           <h2>This is pretty much done but I am going to add new features. Still need to remove some non-classic references.
-           <br><br>
-           If you have any other issues, please don\'t hesitate to let me know.
+           <h2>Place Message Here For Main Page
            <br><br>
            
            <br>
            <br>
-           - Everlaster/Lockpick</h2>
+           </h2>
         ';
     }
 }
